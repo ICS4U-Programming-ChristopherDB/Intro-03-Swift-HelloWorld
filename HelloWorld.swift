@@ -5,7 +5,6 @@
 // This program prints hello to my friend and prints
 // a face
 
-
-print("Enter the name of a friend: ")
-let username : String = readLine()!;
-print("Hello there, \(username).\nHere's a funny face: ( ͡° ʖ ͡°)")
+// Prints text
+print("Hey, Spencer!")
+print("Here's a funny face: ( ͡° ʖ ͡°)")
